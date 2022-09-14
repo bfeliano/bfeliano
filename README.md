@@ -1,16 +1,43 @@
-### Hi there 👋
+<!-- ![Header](./github-header-image.png)-->
 
-<!--
-**bfeliano/bfeliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
 
-Here are some ideas to get you started:
+Hello, my name is Bruno and I currently work as a Cloud Infrastructure Engineer, trying to develop my skills in order to become a DevOps Engineer in the future.
+In here you will find resources that helped and are helping me in my journey. Some of these resources are in Portuguese and some are in English language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Certifications
+
+Linux Professional Institute LPIC-1;<br>
+Microsoft Azure Administrator Associate (AZ-104);<br>
+AWS Certified Cloud Practitioner;<br>
+Microsoft Security, Compliance, and Identity Fundamentals (SC-900).
+
+#### Get in Touch
+<div> 
+  <a href="https://www.linkedin.com/in/brunofeliano"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+
+#### Skills
+<div> 
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" onclick="return false;"></a>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" onclick="return false;"></a>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" onclick="return false;"></a>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" onclick="return false;"></a>
+</div>
+
+<!--Badges https://github.com/Envoy-VC/awesome-badges-->
+
+#### Github Stats
+ <div>
+  <a href="https://github.com/bfeliano">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  </div>
+  
+
+  
+  
+
+
+
+
