@@ -8,6 +8,7 @@ In here you will find resources that helped and are helping me in my journey. So
 #### Certifications
 
 Linux Professional Institute LPIC-1;<br>
+Microsoft Certified: DevOps Engineer Expert (AZ-400);<br>
 Microsoft Azure Administrator Associate (AZ-104);<br>
 AWS Certified Cloud Practitioner;<br>
 Microsoft Security, Compliance, and Identity Fundamentals (SC-900).
@@ -24,9 +25,10 @@ Microsoft Security, Compliance, and Identity Fundamentals (SC-900).
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" onclick="return false;"></a>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" onclick="return false;"></a>
 </div>
 
-<!--Badges https://github.com/Envoy-VC/awesome-badges-->
+<!--Badges https://github.com/Envoy-VC/awesome-badges -->
 
 #### Github Stats
  <div>
