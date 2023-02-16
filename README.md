@@ -24,8 +24,8 @@ Microsoft Security, Compliance, and Identity Fundamentals (SC-900).
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" onclick="return false;"></a>
-<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" onclick="return false;"></a>
-<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" onclick="return false;"></a><br>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" onclick="return false;"></a><br>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" onclick="return false;"></a>
