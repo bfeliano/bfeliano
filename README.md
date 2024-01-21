@@ -6,11 +6,12 @@ Hey, my name is Bruno and I'm a Cloud Infrastructure Engineer working at Liqi Di
 
 #### Certifications
 
-Linux Professional Institute LPIC-1;<br>
-Microsoft Certified: DevOps Engineer Expert (AZ-400);<br>
-Microsoft Azure Administrator Associate (AZ-104);<br>
-AWS Certified Cloud Practitioner;<br>
-Microsoft Security, Compliance, and Identity Fundamentals (SC-900).
+ - 2023-10 – AWS Certified Solutions Architect – Associate<br>
+ - 2023-03 – HashiCorp Certified: Terraform Associate<br>
+ - 2022-10 – Microsoft DevOps Engineer Expert – AZ400<br>
+ - 2022-07 – AWS Certified Cloud Practitioner<br>
+ - 2021-06 – Azure Administrator Associate – AZ104<br>
+ - 2021-04 – Linux Professional Institute – LPIC1<br>
 
 #### Get in Touch
 <div> 
