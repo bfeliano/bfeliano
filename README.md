@@ -10,13 +10,13 @@ Here you will find some (very very few) of my personal projects.
 
 #### Certifications
 
- - 2024-04 – AWS Certified Data Engineer – Associate<br>
- - 2023-10 – AWS Certified Solutions Architect – Associate<br>
- - 2023-03 – HashiCorp Certified: Terraform Associate<br>
- - 2022-10 – Microsoft DevOps Engineer Expert – AZ400<br>
- - 2022-07 – AWS Certified Cloud Practitioner<br>
- - 2021-06 – Azure Administrator Associate – AZ104<br>
- - 2021-04 – Linux Professional Institute – LPIC1<br>
+ - 2024-04 – **AWS** Certified **Data Engineer** – Associate<br>
+ - 2023-10 – **AWS** Certified **Solutions Architect** – Associate<br>
+ - 2023-03 – **HashiCorp** Certified: **Terraform** Associate<br>
+ - 2022-10 – **Microsoft DevOps Engineer** Expert – AZ400<br>
+ - 2022-07 – **AWS** Certified **Cloud Practitioner**<br>
+ - 2021-06 – **Microsoft Azure Administrator** Associate – AZ104<br>
+ - 2021-04 – **Linux** Professional Institute – **LPIC1**<br>
 
 #### Get in Touch
 <div> 
