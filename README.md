@@ -1,4 +1,3 @@
-<!-- ![Header](./github-header-image.png)-->
 
 #### About Me
 
@@ -6,7 +5,6 @@ Hey, I'm Bruno.<br>
 I'm a Cloud Platform Engineer currently working for NXP Semiconductors.<br>
 I was born in Brazil and I am currently living in the Netherlands since February 2024. Before that, I have also lived in the United Kingdom.<br>
 Here you will find some (very very few) of my personal projects.
-
 
 #### Certifications
 
@@ -19,12 +17,13 @@ Here you will find some (very very few) of my personal projects.
  - 2021-04 – **Linux** Professional Institute – **LPIC1**<br>
 
 #### Get in Touch
+
 <div> 
   <a href="https://www.linkedin.com/in/brunofeliano"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-
 #### Skills
+
 <div> 
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" onclick="return false;"></a>
@@ -38,9 +37,8 @@ Here you will find some (very very few) of my personal projects.
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" onclick="return false;"></a>
 </div>
 
-<!--Badges https://github.com/Envoy-VC/awesome-badges -->
-
 #### Github Stats
+
  <div>
   <a href="https://github.com/bfeliano">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&count_private=true&theme=swift"/>
@@ -48,3 +46,5 @@ Here you will find some (very very few) of my personal projects.
   <img height="150cm" src="https://github-readme-streak-stats.herokuapp.com/?user=bfeliano&hide_border=false&theme=swift"/>
   </div>
 
+[Badges https://github.com/Envoy-VC/awesome-badges]: #
+[Markdown Guide https://www.markdownguide.org]: #
