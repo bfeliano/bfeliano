@@ -34,7 +34,10 @@ Here you will find some (very very few) of my personal projects.
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" onclick="return false;"></a>
-<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" onclick="return false;"></a>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" onclick="return false;"></a><br>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" onclick="return false;"></a>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" onclick="return false;"></a>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" onclick="return false;"></a>
 </div>
 
 #### Github Stats
