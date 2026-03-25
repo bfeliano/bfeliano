@@ -1,22 +1,30 @@
 
-#### About Me
+#### Sobre Mim
 
-Hey, I'm Bruno.<br>
-I'm a Cloud Platform Engineer currently working for NXP Semiconductors.<br>
-I was born in Brazil and I am currently living in the Netherlands since February 2024. Before that, I have also lived in the United Kingdom.<br>
-Here you will find some (very very few) of my personal projects.
+Olá! Eu sou o Bruno. 👋  
+Atuo como Cloud Platform Engineer na NXP Semiconductors, trabalhando principalmente com plataformas em nuvem, automação, IaC, DevOps.
 
-#### Certifications
+Nasci no Brasil e, desde fevereiro de 2024, moro na Holanda. Antes disso, também tive a oportunidade de morar e trabalhar no Reino Unido, o que me ajudou bastante a crescer profissionalmente e pessoalmente.  
 
- - 2024-04 – **AWS** Certified **Data Engineer** – Associate<br>
- - 2023-10 – **AWS** Certified **Solutions Architect** – Associate<br>
- - 2023-03 – **HashiCorp** Certified: **Terraform** Associate<br>
- - 2022-10 – **Microsoft DevOps Engineer** Expert – AZ400<br>
- - 2022-07 – **AWS** Certified **Cloud Practitioner**<br>
- - 2021-06 – **Microsoft Azure Administrator** Associate – AZ104<br>
- - 2021-04 – **Linux** Professional Institute – **LPIC1**<br>
+Gosto de estudar, criar projetos pessoais e compartilhar conhecimento.
 
-#### Get in Touch
+Meu foco atual é melhorar cada vez mais minhas habilidades em cloud, design de arquitetura, CI/CD, segurança e observabilidade, sempre buscando aprender algo novo e ajudar outras pessoas na área.
+
+Fique à vontade para explorar meus projetos, enviar feedback ou entrar em contato! 😄
+
+#### Certificações
+
+ - 2026-02 - **Databricks** Certified **Data Engineer** Associate
+ - 2025-11 - **AWS** Certified **DevOps Engineer** – Professional
+ - 2024-04 – **AWS** Certified **Data Engineer** – Associate
+ - 2023-10 – **AWS** Certified **Solutions Architect** – Associate
+ - 2023-03 – **HashiCorp** Certified: **Terraform** Associate
+ - 2022-10 – **Microsoft DevOps Engineer** Expert – AZ400
+ - 2022-07 – **AWS** Certified **Cloud Practitioner**
+ - 2021-06 – **Microsoft Azure Administrator** Associate – AZ104
+ - 2021-04 – **Linux** Professional Institute – **LPIC1**
+
+#### Contato
 
 <div> 
   <a href="https://www.linkedin.com/in/brunofeliano"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -38,6 +46,7 @@ Here you will find some (very very few) of my personal projects.
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" onclick="return false;"></a>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" onclick="return false;"></a>
 </div>
 
 #### Github Stats
