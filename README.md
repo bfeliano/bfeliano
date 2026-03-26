@@ -57,7 +57,6 @@ Fique à vontade para explorar meus projetos, enviar feedback ou entrar em conta
 [![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com/?user=bfeliano&theme=swift&hide_border=true&bg_color=00000000#gh-light-mode-only)](https://github.com/bfeliano#gh-light-mode-only)
 
 
-
 [Badges https://github.com/Envoy-VC/awesome-badges]: #
 [Cards https://github.com/pranesh-2005/github-readme-stats-fast]: #
 [Markdown Guide https://www.markdownguide.org]: #
