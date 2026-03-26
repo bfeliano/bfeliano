@@ -37,12 +37,12 @@ Fique à vontade para explorar meus projetos, enviar feedback ou entrar em conta
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" onclick="return false;"></a>
-<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" onclick="return false;"></a><br>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" onclick="return false;"></a>
-<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" onclick="return false;"></a>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" onclick="return false;"></a><br>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" onclick="return false;"></a>
-<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" onclick="return false;"></a><br>
+<a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" onclick="return false;"></a>
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" onclick="return false;"></a>
@@ -51,12 +51,9 @@ Fique à vontade para explorar meus projetos, enviar feedback ou entrar em conta
 
 #### Github Stats
 
- <div>
-  <a href="https://github.com/bfeliano">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&count_private=true&theme=swift"/>
-  <a href="https://github.com/bfeliano">
-  <img height="150cm" src="https://github-readme-streak-stats.herokuapp.com/?user=bfeliano&hide_border=false&theme=swift"/>
-  </div>
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api?username=bfeliano&show_icons=true&theme=swift&locale=pt-br)](https://github.com/bfeliano)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/streak?username=bfeliano&hide_border=false&theme=swift)](https://github.com/bfeliano)
 
 [Badges https://github.com/Envoy-VC/awesome-badges]: #
+[Cards https://github.com/pranesh-2005/github-readme-stats-fast]: #
 [Markdown Guide https://www.markdownguide.org]: #
