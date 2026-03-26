@@ -51,10 +51,15 @@ Fique à vontade para explorar meus projetos, enviar feedback ou entrar em conta
 
 #### Github Stats
 
-[![Stats](https://github-readme-stats-fast.vercel.app/api?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&bg_color=00000000#gh-dark-mode-only)](https://github.com/bfeliano)
+<!-- [![Stats](#gh-dark-mode-only)](https://github.com/bfeliano)
 [![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=bfeliano&hide_border=false&theme=vision-friendly-dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/bfeliano)
 [![Stats](https://github-readme-stats-fast.vercel.app/api?username=bfeliano&show_icons=true&theme=swift&locale=pt-br&bg_color=00000000#gh-light-mode-only)](https://github.com/bfeliano)
-[![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=bfeliano&hide_border=false&theme=swift&bg_color=00000000#gh-light-mode-only)](https://github.com/bfeliano)
+[![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=bfeliano&hide_border=false&theme=swift&bg_color=00000000#gh-light-mode-only)](https://github.com/bfeliano) -->
+
+
+
+![Stats-Light](https://github-readme-stats-fast.vercel.app/api?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&bg_color=00000000#gh-dark-mode-only)![Stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=bfeliano&show_icons=true&theme=swift&locale=pt-br&bg_color=00000000#gh-light-mode-only)
+
 
 [Badges https://github.com/Envoy-VC/awesome-badges]: #
 [Cards https://github.com/pranesh-2005/github-readme-stats-fast]: #
