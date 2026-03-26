@@ -58,7 +58,7 @@ Fique à vontade para explorar meus projetos, enviar feedback ou entrar em conta
 
 
 
-![Stats-Light](https://github-readme-stats-fast.vercel.app/api?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&bg_color=00000000#gh-dark-mode-only)![Stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=bfeliano&show_icons=true&theme=swift&locale=pt-br&bg_color=00000000#gh-light-mode-only)
+![Stats-Light](https://github-readme-stats-fast.vercel.app/api#gh-dark-mode-only?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&bg_color=00000000)![Stats-Dark](https://github-readme-stats-fast.vercel.app/api#gh-light-mode-only?username=bfeliano&show_icons=true&theme=swift&locale=pt-br&bg_color=00000000)
 
 
 [Badges https://github.com/Envoy-VC/awesome-badges]: #
