@@ -51,8 +51,9 @@ Fique à vontade para explorar meus projetos, enviar feedback ou entrar em conta
 
 #### Github Stats
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&bg_color=00000000)](https://github.com/bfeliano)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/streak?username=bfeliano&hide_border=false&theme=vision-friendly-dark&bg_color=00000000)](https://github.com/bfeliano)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bfeliano&theme=vision-friendly-dark&hide_border=true)
+
 
 [Badges https://github.com/Envoy-VC/awesome-badges]: #
 [Cards https://github.com/pranesh-2005/github-readme-stats-fast]: #
