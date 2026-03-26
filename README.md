@@ -49,10 +49,10 @@ Fique à vontade para explorar meus projetos, enviar feedback ou entrar em conta
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" onclick="return false;"></a>
 </div>
 
-#### Github Stats
+#### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bfeliano&theme=vision-friendly-dark&hide_border=true)
+[![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&hide_border=true#gh-dark-mode-only)](https://github.com/bfeliano#gh-dark-mode-only)  
+[![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=bfeliano&theme=vision-friendly-dark&hide_border=true)](https://github.com/bfeliano#gh-dark-mode-only)
 
 
 [Badges https://github.com/Envoy-VC/awesome-badges]: #
