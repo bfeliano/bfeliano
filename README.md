@@ -51,6 +51,23 @@ Fique à vontade para explorar meus projetos, enviar feedback ou entrar em conta
 
 #### Github Stats
 
+
+<!-- Modo Escuro -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- Modo Claro -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&theme=swift&locale=pt-br&bg_color=00000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&theme=swift" />
+</picture>
+
+
+
 <!-- Modo Escuro -->
 <picture>
   <source 
