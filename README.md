@@ -1,21 +1,21 @@
-
 #### Sobre Mim
 
-Olá! Eu sou o Bruno. 👋  
-Atuo como Cloud Platform Engineer na NXP Semiconductors, trabalhando principalmente com plataformas em nuvem, automação, IaC, DevOps.
+Olá! Eu sou o Bruno. 👋
+Atuo como Cloud Platform Engineer na NXP Semiconductors, trabalhando principalmente com plataformas em nuvem, automação, IaC e práticas de DevOps.
+Além do meu trabalho diário, atuo como mentor voluntário na Escola da Nuvem, ajudando alunos a iniciarem suas carreiras em tecnologia, orientando sobre boas práticas, estudos e trajetória profissional. É algo que faço com orgulho, pois acredito em retribuir para a comunidade e apoiar novos talentos na área de cloud.
 
-Nasci no Brasil e, desde fevereiro de 2024, moro na Holanda. Antes disso, também tive a oportunidade de morar e trabalhar no Reino Unido, o que me ajudou bastante a crescer profissionalmente e pessoalmente.  
+Nasci no Brasil e, desde fevereiro de 2024, moro na Holanda. Antes disso, também tive a oportunidade de morar e trabalhar no Reino Unido.
 
-Gosto de estudar, criar projetos pessoais e compartilhar conhecimento.
+Gosto de estudar, criar projetos pessoais e compartilhar conhecimento sempre que possível.
 
-Meu foco atual é melhorar cada vez mais minhas habilidades em cloud, design de arquitetura, CI/CD, segurança e observabilidade, sempre buscando aprender algo novo e ajudar outras pessoas na área.
+Meu foco atual é evoluir continuamente em cloud, design de arquitetura, CI/CD, orquestração de contêineres, segurança e observabilidade, sempre buscando aprender algo novo e ajudar outras pessoas na área.
 
 Fique à vontade para explorar meus projetos, enviar feedback ou entrar em contato! 😄
 
 #### Certificações
 
- - 2026-02 - **Databricks** Certified **Data Engineer** Associate
- - 2025-11 - **AWS** Certified **DevOps Engineer** – Professional
+ - 2026-02 – **Databricks** Certified **Data Engineer** Associate
+ - 2025-11 – **AWS** Certified **DevOps Engineer** – Professional
  - 2024-04 – **AWS** Certified **Data Engineer** – Associate
  - 2023-10 – **AWS** Certified **Solutions Architect** – Associate
  - 2023-03 – **HashiCorp** Certified: **Terraform** Associate
@@ -49,12 +49,14 @@ Fique à vontade para explorar meus projetos, enviar feedback ou entrar em conta
 <a href="https://github.com/bfeliano"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" onclick="return false;"></a>
 </div>
 
+
+
 #### GitHub Stats
 
-[![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&hide_border=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/bfeliano#gh-dark-mode-only)  
-[![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=bfeliano&theme=vision-friendly-dark&hide_border=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/bfeliano#gh-dark-mode-only)
-[![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&theme=swift&locale=pt-br&hide_border=true&bg_color=00000000#gh-light-mode-only)](https://github.com/bfeliano#gh-light-mode-only)  
-[![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com/?user=bfeliano&theme=swift&hide_border=true&bg_color=00000000#gh-light-mode-only)](https://github.com/bfeliano#gh-light-mode-only)
+[![GitHub Stats Dark](https://github-readme-stats-fast.vercel.app/api?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&hide_border=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/bfeliano#gh-dark-mode-only)  
+[![GitHub Streak Dark](https://github-readme-stats-fast.vercel.app/api/streak?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&hide_border=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/bfeliano#gh-dark-mode-only)  
+[![GitHub Stats Light](https://github-readme-stats-fast.vercel.app/api?username=bfeliano&show_icons=true&theme=swift&locale=pt-br&hide_border=true&bg_color=00000000#gh-light-mode-only)](https://github.com/bfeliano#gh-light-mode-only)  
+[![GitHub Streak Light](https://github-readme-stats-fast.vercel.app/api/streak?username=bfeliano&theme=swift&hide_border=true&bg_color=00000000#gh-light-mode-only)](https://github.com/bfeliano#gh-light-mode-only)
 
 
 [Badges https://github.com/Envoy-VC/awesome-badges]: #
