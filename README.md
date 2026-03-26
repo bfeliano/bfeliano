@@ -56,9 +56,12 @@ Fique à vontade para explorar meus projetos, enviar feedback ou entrar em conta
 [![Stats](https://github-readme-stats-fast.vercel.app/api?username=bfeliano&show_icons=true&theme=swift&locale=pt-br&bg_color=00000000#gh-light-mode-only)](https://github.com/bfeliano)
 [![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=bfeliano&hide_border=false&theme=swift&bg_color=00000000#gh-light-mode-only)](https://github.com/bfeliano) -->
 
-
-
-![Stats-Light](https://github-readme-stats-fast.vercel.app/api#gh-dark-mode-only?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&bg_color=00000000)![Stats-Dark](https://github-readme-stats-fast.vercel.app/api#gh-light-mode-only?username=bfeliano&show_icons=true&theme=swift&locale=pt-br&bg_color=00000000)
+<div>
+  <a href="https://github.com/bfeliano">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&count_private=true&theme=swift#gh-light-mode-only"/>
+  <a href="https://github.com/bfeliano">
+  <img height="150cm" src="https://github-readme-streak-stats.herokuapp.com/?user=bfeliano&hide_border=false&theme=swift"/>
+</div>
 
 
 [Badges https://github.com/Envoy-VC/awesome-badges]: #
