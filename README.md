@@ -51,8 +51,11 @@ Fique à vontade para explorar meus projetos, enviar feedback ou entrar em conta
 
 #### GitHub Stats
 
-[![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&hide_border=true#gh-dark-mode-only)](https://github.com/bfeliano#gh-dark-mode-only)  
-[![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=bfeliano&theme=vision-friendly-dark&hide_border=true)](https://github.com/bfeliano#gh-dark-mode-only)
+[![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&theme=vision-friendly-dark&locale=pt-br&hide_border=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/bfeliano#gh-dark-mode-only)  
+[![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=bfeliano&theme=vision-friendly-dark&hide_border=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/bfeliano#gh-dark-mode-only)
+[![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=bfeliano&show_icons=true&theme=swift&locale=pt-br&hide_border=true#gh-light-mode-only)](https://github.com/bfeliano#gh-light-mode-only)  
+[![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com/?user=bfeliano&theme=swift&hide_border=true#gh-light-mode-only)](https://github.com/bfeliano#gh-light-mode-only)
+
 
 
 [Badges https://github.com/Envoy-VC/awesome-badges]: #
