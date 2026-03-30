@@ -1,6 +1,6 @@
 #### Sobre Mim
 
-Olá! Eu sou o Bruno. 👋
+Olá! Eu sou o Bruno. 👋  
 Atuo como Cloud Platform Engineer na NXP Semiconductors, trabalhando principalmente com plataformas em nuvem, automação, IaC e práticas de DevOps.
 Além do meu trabalho diário, atuo como mentor voluntário na Escola da Nuvem, ajudando alunos a iniciarem suas carreiras em tecnologia, orientando sobre boas práticas, estudos e trajetória profissional. É algo que faço com orgulho, pois acredito em retribuir para a comunidade e apoiar novos talentos na área de cloud.
 
