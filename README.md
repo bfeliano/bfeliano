@@ -4,7 +4,7 @@ Olá! Eu sou o Bruno. 👋
 Atuo como Cloud Platform Engineer na NXP Semiconductors, trabalhando principalmente com plataformas em nuvem, automação, IaC e práticas de DevOps.
 Além do meu trabalho diário, atuo como mentor voluntário na Escola da Nuvem, ajudando alunos a iniciarem suas carreiras em tecnologia, orientando sobre boas práticas, estudos e trajetória profissional. É algo que faço com orgulho, pois acredito em retribuir para a comunidade e apoiar novos talentos na área de cloud.
 
-Nasci no Brasil e, desde fevereiro de 2024, moro na Holanda. Antes disso, também tive a oportunidade de morar e trabalhar no Reino Unido.
+Sou brasileiro e, desde fevereiro de 2024, moro na Holanda. Antes disso, também tive a oportunidade de morar e trabalhar por 6 anos no Reino Unido.
 
 Gosto de estudar, criar projetos pessoais e compartilhar conhecimento sempre que possível.
 
